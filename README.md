@@ -73,7 +73,7 @@ O objetivo é praticar estruturação de páginas web, estilização com CSS, ut
   ```html
   <link rel="icon" href="https://cdn.brandfetch.io/orlandocitysc.com/w/450/h/512/logo" type="image/png">
   ```
-
+deploy: https://orlando-brown.vercel.app/
 ---
 
 ## 📌 Observações
